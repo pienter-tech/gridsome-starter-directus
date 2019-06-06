@@ -1,0 +1,13 @@
+{
+  "name": "gridsome-starter-directus",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@pienter/gridsome-source-directus": "^0.1.1",
+    "gridsome": "^0.6.3"
+  }
+}
